@@ -5,7 +5,7 @@ the [Multimodal Live API](https://cloud.google.com/vertex-ai/generative-ai/docs/
 with Next.js, this project enables seamless voice, webcam, and text and screensharing interactions with Google's most
 advanced AI model.
 
-![Demo](https://github.com/LivioGama/nextjs-gemini-audio-stream-realtime/blob/main/doc/screen.webp)
+
 
 ## 🚀 Live Demo
 
